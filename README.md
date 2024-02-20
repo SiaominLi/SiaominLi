@@ -1,12 +1,12 @@
-# Hello! It's Siaomin
+# Hello! It's Siaomin!
 
-我是李曉旻ฅ՞•ﻌ•՞ฅ
+I am a student in NCHU with a focus on **Natural Language Processing** and **Image Recognition**, gaining experience in logic scheduling design and electronic circuits.
+In my future graduate studies, I aim to focus on **digital IC design** with a keen interest in accelerating the computational efficiency of deep learning models.
+I am interested in exploring applications of AI and constantly expanding my knowledge in this field.
 
 ## My Skill
-![My Skills](https://skillicons.dev/icons?i=c,flutter,arduino,discord,eclipse,py,r,vscode&theme=light)
+![My Skills](https://skillicons.dev/icons?i=c,java,python,linux,matlab,flutter,arduino,r&theme=light)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siaomin&theme=swift)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siaomin&theme=swift)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siaomin&theme=swift)
 
 
